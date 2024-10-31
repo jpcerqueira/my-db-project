@@ -10,7 +10,7 @@ O objetivo deste repositório é servir como um guia para entender o processo de
 
 Abaixo está um mapa da estrutura do repositório para facilitar a navegação:
 
-my-db-project/
+```my-db-project/
 │
 ├── README.md                   # Explicação geral sobre o projeto, propósito e etapas.
 │
@@ -32,7 +32,7 @@ my-db-project/
 │
 └── scripts/                    # Scripts adicionais de manutenção ou configuração.
     └── backup_restore.sql      # Scripts para backup e restauração.
-
+```
 ## Como Contribuir
 
 Este é um projeto de aprendizado, e contribuições são bem-vindas! Se tiver sugestões de melhoria ou quiser compartilhar ideias, sinta-se à vontade para abrir um pull request ou issue.
