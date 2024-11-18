@@ -18,8 +18,9 @@ Abaixo está um mapa da estrutura do repositório para facilitar a navegação:
 │   ├── manual.md               # Manual de uso e descrição do banco de dados.
 │   ├── diagramas/              # Diagramas das diferentes fases.
 │   │   ├── modelo-conceitual.png
+│   │   │── validacao-modelo-conceitual.png
 │   │   ├── modelo-logico.png
-│   │   └── modelo-fisico.png
+│   │   └── modelo-fisico.png (Ainda não implementado)
 │   ├── relatorios/             # Relatórios e anotações.
 │   │   └── notas-de-estudo.md
 │   └── contexto_do_projeto.md  # Detalhes sobre os objetivos e requisitos do sistema.
@@ -28,9 +29,9 @@ Abaixo está um mapa da estrutura do repositório para facilitar a navegação:
 │   ├── create_tables.sql       # Criação das tabelas.
 │   ├── insert_data.sql         # Inserção de dados.
 │   ├── consultas.sql           # Consultas de exemplo.
-│   └── alteracoes.sql          # Alterações, atualizações de estrutura etc.
+│   └── alteracoes.sql          # Alterações, atualizações de estrutura etc. (Ainda não implementado)
 │
-└── scripts/                    # Scripts adicionais de manutenção ou configuração.
+└── scripts/                    # Scripts adicionais de manutenção ou configuração. (Ainda não implementado)
     └── backup_restore.sql      # Scripts para backup e restauração.
 ```
 ## Como Contribuir
@@ -44,4 +45,3 @@ Este é um projeto de aprendizado, e contribuições são bem-vindas! Se tiver s
 ## Links Úteis:
 
 [LinkedIn](https://www.linkedin.com/in/jpccerqueira/)
-
